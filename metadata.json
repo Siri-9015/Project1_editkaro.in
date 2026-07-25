@@ -1,0 +1,6 @@
+{
+  "name": "Editkaro.in",
+  "description": "Interactive portfolio and agency webpage for Editkaro.in — Social Media Marketing & Video Editing Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
